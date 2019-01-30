@@ -1,0 +1,30 @@
+body {
+	background-image: url("../images/soccer-15458797.jpg");
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-size: 800px;
+
+
+}
+.display-buttons{
+    border-radius: 20px;
+    border: 1px solid blue;
+    padding: 12px;
+}
+p{
+    letter-spacing: 7px;
+    text-align:center;
+    color: navy;
+    font-size: 25px;
+    font-style: oblique;}
+h1{
+    letter-spacing: 7px;
+    text-align:center;
+    color: navy;
+    font-size: 25px;
+    font-style: oblique;}
+ .submitPress{
+font-style: initial;
+font-size: 20px;
+    }
+    
